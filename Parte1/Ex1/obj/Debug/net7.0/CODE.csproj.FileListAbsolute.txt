@@ -1,0 +1,14 @@
+C:\Users\gtthi\OneDrive\Documentos\CODE\bin\Debug\net7.0\CODE.exe
+C:\Users\gtthi\OneDrive\Documentos\CODE\bin\Debug\net7.0\CODE.deps.json
+C:\Users\gtthi\OneDrive\Documentos\CODE\bin\Debug\net7.0\CODE.runtimeconfig.json
+C:\Users\gtthi\OneDrive\Documentos\CODE\bin\Debug\net7.0\CODE.dll
+C:\Users\gtthi\OneDrive\Documentos\CODE\bin\Debug\net7.0\CODE.pdb
+C:\Users\gtthi\OneDrive\Documentos\CODE\obj\Debug\net7.0\CODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtthi\OneDrive\Documentos\CODE\obj\Debug\net7.0\CODE.AssemblyInfoInputs.cache
+C:\Users\gtthi\OneDrive\Documentos\CODE\obj\Debug\net7.0\CODE.AssemblyInfo.cs
+C:\Users\gtthi\OneDrive\Documentos\CODE\obj\Debug\net7.0\CODE.csproj.CoreCompileInputs.cache
+C:\Users\gtthi\OneDrive\Documentos\CODE\obj\Debug\net7.0\CODE.dll
+C:\Users\gtthi\OneDrive\Documentos\CODE\obj\Debug\net7.0\refint\CODE.dll
+C:\Users\gtthi\OneDrive\Documentos\CODE\obj\Debug\net7.0\CODE.pdb
+C:\Users\gtthi\OneDrive\Documentos\CODE\obj\Debug\net7.0\CODE.genruntimeconfig.cache
+C:\Users\gtthi\OneDrive\Documentos\CODE\obj\Debug\net7.0\ref\CODE.dll
